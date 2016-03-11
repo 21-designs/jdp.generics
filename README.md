@@ -1,2 +1,3 @@
 # pattern-lib
-A library providing the most common design patterns.
+
+A library providing the generic design pattern.
